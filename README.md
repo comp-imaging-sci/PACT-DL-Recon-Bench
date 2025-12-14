@@ -3,15 +3,9 @@
 This repository contains the source code accompanying the paper:  
 “Benchmarking Deep Learning-Based Reconstruction Methods for Photoacoustic Computed Tomography (PACT) with Clinically Relevant Synthetic Datasets”
 
-Authors:  
-Panpan Chen, Seonyeong Park, Gangwon Jeong, Refik Mert Cam, Umberto Villa, and Mark A. Anastasio  
+Authors: Panpan Chen, Seonyeong Park, Gangwon Jeong, Refik Mert Cam, Umberto Villa, and Mark A. Anastasio  
 
-Affiliation:  
-University of Illinois Urbana–Champaign  
+Affiliation: University of Illinois Urbana–Champaign  
 
-License:  
-To be specified upon publication  
-
-Status:  
-🔧 This repository is currently being prepared for public release.
+Status: 🔧 This repository is currently being prepared for public release.
 
